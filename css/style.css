@@ -1,0 +1,44 @@
+.total {
+    background-color: rgb(197, 241, 147);
+}
+
+h1 {
+    background-color: aqua;
+}
+
+#wstep {
+    background-color: blue;
+}
+
+h2 {
+    background-color: blueviolet;
+}
+
+#paragraf {
+    background-color: aquamarine;
+}
+
+ol {
+    background-color: beige;
+}
+
+#first {
+    color: black;
+}
+
+#second {
+    color: brown;
+}
+
+#third {
+    color: blue;
+
+}
+
+#fourth {
+    color: blueviolet;
+}
+
+#fifth {
+    color: red;
+}
